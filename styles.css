@@ -183,15 +183,17 @@ article button:hover {
         width: 50%;
         border-radius: 15px;
     }
+
+    article {
+        width: 50%;
+        border-top-right-radius: 15px;
+        border-bottom-right-radius: 15px;
+        box-shadow: 2px 2px 10px grey;
+        
+    }
 }
 
-article {
-    width: 50%;
-    border-top-right-radius: 15px;
-    border-bottom-right-radius: 15px;
-    box-shadow: 2px 2px 10px grey;
-    
-}
+
 
 
 
